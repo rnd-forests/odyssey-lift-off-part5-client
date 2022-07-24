@@ -49,5 +49,8 @@
   },
   "main": "src/index.js",
   "author": "Raphael Terrier @R4ph-t",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": "16.x"
+  }
 }
